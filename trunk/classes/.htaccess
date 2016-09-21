@@ -1,0 +1,4 @@
+php_value upload_max_filesize 1024M
+php_value post_max_size 2048M
+php_value memory_limit 16384M
+php_value short_open_tag = On
